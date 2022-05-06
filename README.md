@@ -1,0 +1,5 @@
+- 👋 olá,meu é Marcela
+- 👀 meus intereses são em programacã do scratch.
+- 🌱 no momento estou aprendendo diciplina de pensamento computacional
+- 💞️ gostei da colaborac da programacao
+- 📫 sousa.marcela@escola.pr.gov.br
